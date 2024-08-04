@@ -30,19 +30,19 @@
     <hr>
     <br>
     
- <p class="center"><b>Father Name :<input type="text" placeholder="First Name"</b><input type="text" placeholder="Last Name"</p>
+ <p class="center"><b>Father Name :<input type="text" placeholder="First Name"</b><input type="text" placeholder="Last Name"></p>
     <br>
     <br>
  <p class="center"><b>Phone Number :<input type="text" placeholder="+91"></b></p>
     <br>
- <p class="center"><b>Occupation :<input type="text" placeholder=""</b>  Business Location :<input type="text" placeholder="near city"</p>
+ <p class="center"><b>Occupation :<input type="text" placeholder=""</b>  Business Location :<input type="text" placeholder="near city"></p>
     <br>
     <br>
- <p class="center"><b>Email Id. :<input type="text" placeholder="@gmail.com"</b></p>
+ <p class="center"><b>Email Id. :<input type="text" placeholder="@gmail.com"></b></p>
   <br>
     <hr>
     <br>
- <p class="center"><b>Mother Name :<input type="text" placeholder="First Name"</b><input type="text" placeholder="Last Name"</p>
+ <p class="center"><b>Mother Name :<input type="text" placeholder="First Name"</b><input type="text" placeholder="Last Name"></p>
     <br>
     <br>
     <p class="center"><B>Phone Number :<input type="text" placeholder="+91"></B></p>
